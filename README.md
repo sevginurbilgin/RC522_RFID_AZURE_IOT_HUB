@@ -17,7 +17,7 @@
 >
 > [Günlük hayatta toplu taşıma biletlerinde, işyeri ve okul girişlerindeki turnikelerde karşımıza sıklıkla çıkmaktadır. Arduino ile RFID projelerini incelediğimizde kapı kilidi, bir ortamda bulunan kişi sayısı bilgisinin alınması, bilgisayar oturum kilidi, alarm sistemi gibi projelerle sıklıkla karşılaşabilirsiniz](https://maker.robotistan.com/arduino-dersleri-18-rc522-rfid-modul-kullanimi/)
 
-![](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\RFID.gif)
+![](README_Files/RFID.gif)
 
 
 
@@ -37,7 +37,7 @@
 
 RC522 pin çıkışları şematiğinden bağlantıları yaparken yararlanabilirsiniz.
 
-<img src="https://www.algoritmauzmani.com/wp-content/uploads/2017/04/raspberry-rc522.png" alt="Raspberry Pi 3 ile RC522 RFID Kart Okuyucu Kullanımı" style="zoom:80%;" />
+<img src="https://www.algoritmauzmani.com/wp-content/uploads/2017/04/raspberry-rc522.png" alt="Raspberry Pi 3 ile RC522 RFID Kart Okuyucu Kullanımı" style="zoom:60%;" />
 
 
 
@@ -116,7 +116,7 @@ from azure.iot.device import IoTHubDeviceClient, Message, MethodResponse
 
 
 
-![](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\IMG-6933.gif)
+![](README_Files/IMG-6933.gif)
 
 
 
