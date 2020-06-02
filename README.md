@@ -1,7 +1,5 @@
 # **Rc522 RFID Okuyucu ve** **Azure** **Cloud** ile Personel Giriş-Çıkış Takip Sistemi
 
-
-
 [TOC]
 
 ###  Gereksinimler
@@ -19,7 +17,7 @@
 >
 > [Günlük hayatta toplu taşıma biletlerinde, işyeri ve okul girişlerindeki turnikelerde karşımıza sıklıkla çıkmaktadır. Arduino ile RFID projelerini incelediğimizde kapı kilidi, bir ortamda bulunan kişi sayısı bilgisinin alınması, bilgisayar oturum kilidi, alarm sistemi gibi projelerle sıklıkla karşılaşabilirsiniz](https://maker.robotistan.com/arduino-dersleri-18-rc522-rfid-modul-kullanimi/)
 
-<video src="C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\RFID.mp4"></video>
+![](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\RFID.gif)
 
 
 
@@ -113,10 +111,12 @@ from azure.iot.device import IoTHubDeviceClient, Message, MethodResponse
 - Setup aşağıdaki gibidir.
 
   
+
 ![IMG_6932](README_Files/IMG_6932.JPG)
 
 
-<video src="README_Files/IMG_6933.MOV"></video>
+
+![](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\IMG-6933.gif)
 
 
 
