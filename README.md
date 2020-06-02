@@ -48,7 +48,7 @@ RC522 pin çıkışları şematiğinden bağlantıları yaparken yararlanabilirs
 1. İlk adım olarak https://azure.microsoft.com/tr-tr/ adresinden hesap açmak gerekiyor.
 2. Hesap açtıktan sonra raspberryimizi tanıtmak için IoT Hub oluşturuyoruz.
 
-![6](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\6.PNG)
+![6](README_Files/6.PNG)
 
 
 
@@ -56,7 +56,7 @@ RC522 pin çıkışları şematiğinden bağlantıları yaparken yararlanabilirs
 
 [IoT Hub, bulutta barındırılan ve IoT uygulamanız ve yönettiği cihazlar arasındaki iki yönlü iletişim için merkezi ileti hub’ı görevi gören, yönetilen bir hizmettir. Milyonlarca IoT cihazı ve bulutta barındırılan çözüm arka ucu arasında güvenilir ve güvenli iletişim sunan IoT çözümleri derlemek için Azure IoT Hub’ı kullanabilirsiniz. Hemen hemen her cihazı IoT Hub’a bağlayabilirsiniz. IoT Hub, hem cihazdan buluta hem de buluttan cihaza iletişimi destekler.](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub#:~:text=IoT%20Hub%20is%20a%20managed,and%20the%20devices%20it%20manages.&text=IoT%20Hub%20supports%20communications%20both,the%20cloud%20to%20the%20device.)
 
-![13](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\13.PNG)
+![13](README_Files/13.PNG)
 
 
 
@@ -84,7 +84,7 @@ from azure.iot.device import IoTHubDeviceClient, Message, MethodResponse
 
 <u>Connection stringi raspberryi devicenızı tanımladığınız yerde bulabilirsiniz !</u>
 
-![10](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\10.PNG)
+![10](README_Files/10.PNG)
 
 
 
@@ -100,25 +100,23 @@ from azure.iot.device import IoTHubDeviceClient, Message, MethodResponse
 
 - [Mobaxterm](https://mobaxterm.mobatek.net/) Uygulamasından raspberryde bulunan python dosyamızı çalıştırabilir ve consoleu gözlemleyebiliriz.
 
-![Resim2](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\Resim2.png)IOT Stream 
+![Resim2](README_Files/Resim2.png)IOT Stream 
 
 
 
 - IOT STREAM sayfasından verileri gözlemleyebiliyoruz.
 
-![Resim1](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\Resim1.png)
+![Resim1](README_Files/Resim1.png)
 
 
 
 - Setup aşağıdaki gibidir.
 
   
-
-  ![IMG_6932](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\IMG_6932.JPG)
-
+![IMG_6932](README_Files/IMG_6932.JPG)
 
 
-<video src="C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\README_Files\IMG_6933.MOV"></video>
+<video src="README_Files/IMG_6933.MOV"></video>
 
 
 
