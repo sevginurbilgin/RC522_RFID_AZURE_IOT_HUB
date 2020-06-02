@@ -34,9 +34,11 @@ RC522 pin çıkışları şematiğinden bağlantıları yaparken yararlanabilirs
 
 
 
+### Uygulama Çıktısı
 
+![IMG_6932](C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\IMG_6932.JPG)
 
-
+<video src="C:\Users\sevgi\Desktop\yksk\Git\RC522_RFID_AZURE_ITO_HUB\IMG_6933.MOV"></video>
 
 
 
